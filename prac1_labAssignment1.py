@@ -17,4 +17,5 @@ print("DA:", da)
 print("HRA:", hra)
 print("TA:", ta)
 print("LIC Deduction:", lic)
+
 print("Net Salary:", netsalary)
