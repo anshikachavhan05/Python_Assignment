@@ -13,4 +13,5 @@ elif hardness > 50 or carbon < 0.7 or tensile_strength > 5600:
     grade = 6
 else:
     grade = 5
+
 print(f"The grade of the steel is: {grade}")
